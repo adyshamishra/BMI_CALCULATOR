@@ -5,4 +5,4 @@
 2. Navigate to the folder:
    `cd BMI_CALCULATOR`
 3. Run the application:
-   `python dashboard.py`
+   `python main.py`
